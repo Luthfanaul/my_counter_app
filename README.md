@@ -5,7 +5,8 @@
 - Please add the "decrement" function into the Motoko code and the frontend code to allow click the `Decrement` button to decrease the counter.
 - My ICP Account Principal ID: [ njkwd-q3d5w-grklx-5mdoh-mymcl-kdwkn-uokrq-anwoh-uodpc-acvgu-oae ]
 - My ICP Ledger Account ID: [ ae7180b1dcd4f14cb7f7a08502c3ed7376196e6fd89490aca4168dbfa9abe098 ]
-- Seed Key: indicate arena diet nominee laugh garment exhibit candy grief faint direct couple possible orphan funny furnace virtual rhythm antenna crystal metal opinion useless arrange
+- Seed Key: Your seed phrase for identity 'luth': ranch nasty panel captain lawsuit become shaft arch fuel crucial peasant side hurt twenty nice silver cluster hobby vehicle spider party olive isolate parade
+This can be used to reconstruct your key in case of emergency, so write it down in a safe place.
 
 ## Get Started
 
